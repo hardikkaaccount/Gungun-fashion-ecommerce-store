@@ -38,10 +38,46 @@ If you run into any issues or have any questions, feel free to open an issue in 
 
 ---
 
-### 💬 Connect with Us:
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [yourname](https://linkedin.com/in/yourname)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+## 📞 Contact Us  
+
+We would love to hear from you! Feel free to reach out to us for collaborations, queries, or just to connect. Below are our contact details:
+
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+
+  <tr>
+    <!-- Hardik's Image -->
+    <td>
+      <a href="https://github.com/hardikkaaccount" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/141545710?v=4" alt="Hardik Jain" style="width: 100px; height: 100px; border-radius: 50%;">
+      </a>
+    </td>
+    <!-- Chandan's Image -->
+    <td>
+      <a href="https://github.com/hardikkaaccount" target="_blank">
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQFbBCSGPofpIA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721111176386?e=1738800000&v=beta&t=bJAoJ2h6FLsZdmpxibb9j3P04WgLfsGdvb7kf646IgI" alt="Lavanya K" style="width: 100px; height: 100px; border-radius: 50%;">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- Hardik's Name -->
+    <td>
+      <a href="https://www.linkedin.com/in/hardikjain108/" target="_blank" style="text-decoration: none; color: black; font-weight: bold;">
+        Hardik Jain
+      </a>
+    </td>
+    <!-- Chandan's Name -->
+    <td>
+      <a href="https://www.linkedin.com/in/lavanya-k-833319268/" target="_blank" style="text-decoration: none; color: black; font-weight: bold;">
+        Lavanya K
+      </a>
+    </td>
+  </tr>
+
+</table>
+
+
+<p style="text-align: center; font-style: italic; margin-top: 20px;">Looking forward to connecting with you!</p>
 
 ---
 
